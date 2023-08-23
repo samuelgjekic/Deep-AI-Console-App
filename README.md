@@ -3,7 +3,6 @@ A simple console app in C# that uses DeepAi API
 
 I plan to work on this to learn more about AI, feel free to help out. 
 
-Note: You can find a compiled .exe in the bin folder to try it out
 
 
 
